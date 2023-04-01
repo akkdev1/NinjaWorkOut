@@ -12,3 +12,8 @@ git push -u origin main
 git remote add origin https://github.com/akkdev1/NinjaWorkOut.git
 git branch -M main
 git push -u origin main
+
+-------------------
+git add .  (สำหรับ Add File และ Folder แต่ต้องมีไฟล์อยู่ใน Folder ย่อยด้วย) 
+git status  (สำหรับดูว่ามีการเปลี่ยนแปลงอะไรบ้าง) 
+git commit -m "comment"
